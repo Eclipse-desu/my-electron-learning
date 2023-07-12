@@ -1,0 +1,15 @@
+{
+  "name": "dark-mode",
+  "version": "1.0.0",
+  "description": "Test app for dark mode",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eclipse-desu",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.2.0"
+  }
+}
